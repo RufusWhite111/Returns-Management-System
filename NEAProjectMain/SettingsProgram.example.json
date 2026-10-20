@@ -1,0 +1,9 @@
+{
+  "FilePaths": {
+    "CredentialFilePath": "PATH_TO_YOUR_GOOGLE_SERVICE_ACCOUNT_KEY.json"
+  },
+
+  "DatabaseConfig": {
+    "ConnectionString": "Server=YOUR_SERVER;Database=YOUR_DATABASE;Trusted_Connection=True;TrustServerCertificate=True;"
+  }
+}

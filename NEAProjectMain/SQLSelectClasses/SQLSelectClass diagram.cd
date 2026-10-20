@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="NameAndType">
+  <Class Name="NEAProjectMain.SQLSelectClasses.ExchangeVsReturnCount">
+    <Position X="12.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>SQLSelectClasses\ExchangeVsReturns.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NEAProjectMain.SQLSelectClasses.IndividualCustomerOrder">
+    <Position X="14" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>SQLSelectClasses\IndividualCustomerOrder.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NEAProjectMain.SQLSelectClasses.IndividualCustomerOrderSummary">
+    <Position X="15.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>SQLSelectClasses\IndividualCustomerOrdersSummary.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NEAProjectMain.SQLSelectClasses.ItemInOrder">
+    <Position X="14" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAgAAAAAAAAAgAAAACAAAAAAAAAAAAAIgAA=</HashCode>
+      <FileName>SQLSelectClasses\ItemInOrder.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NEAProjectMain.SQLSelectClasses.MonthlyReturnCount">
+    <Position X="15.75" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAABAAAAAAAAAAAABAAAAAAAAAEAAAAAAAAAAA=</HashCode>
+      <FileName>SQLSelectClasses\MonthlyReturnCount.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NEAProjectMain.SQLSelectClasses.IndividualOrderDetails">
+    <Position X="12.25" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAACAAAACAAAQCAQAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>SQLSelectClasses\OrderDetail.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NEAProjectMain.SQLSelectClasses.RankedAttribute">
+    <Position X="8" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>SQLSelectClasses\RankedAttribute.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NEAProjectMain.SQLSelectClasses.RankedItem">
+    <Position X="5.75" Y="2.5" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>SQLSelectClasses\RankedItem.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NEAProjectMain.SQLSelectClasses.RankedReturnReason">
+    <Position X="9.25" Y="2.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>SQLSelectClasses\RankedReturnReason.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
